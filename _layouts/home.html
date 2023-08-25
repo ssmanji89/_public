@@ -5,6 +5,14 @@ refactor: true
 
 {% include lang.html %}
 
+<!-- Description Section Start -->
+<div class="description">
+    <h2>About Suleman</h2>
+    <p>
+    Suleman S. Manji, an Integrations Specialist based in the Greater Houston area, has carved a niche for himself at Stack Advisors, LLC. With a career spanning various technical and advisory roles, Suleman's proficiency lies in harmonizing technology with business goals. He holds a Management of Information Systems degree from Bauer School of Business, University of Houston. Outside his professional sphere, he's a beacon of knowledge, advocating for continuous learning. Explore his handpicked technical resources [here](https://amzn.to/3QYw2NZ).
+    </p>
+</div>
+
 {% assign pinned = site.posts | where: 'pin', 'true' %}
 {% assign default = site.posts | where_exp: 'item', 'item.pin != true and item.hidden != true' %}
 
