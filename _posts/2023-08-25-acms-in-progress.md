@@ -3,7 +3,7 @@ layout: post
 title: "Navigating the Digital Frontier: Suleman's Journey with ACMS"
 date: 2023-08-25
 categories: [Projects, Monetization]
-image: /path/to/a/related/image.jpg
+image: https://aicyberchallenge.com/storage/2023/08/SHIELD-950x1024.png
 pin: true
 ---
 
