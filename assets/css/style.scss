@@ -1,4 +1,6 @@
 ---
 ---
 
-@import 'jekyll-theme-leap-day';
+@import '{{ site.theme }}';
+
+/* append your custom style below */
