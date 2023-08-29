@@ -2,7 +2,7 @@ import babel from '@rollup/plugin-babel';
 import terser from '@rollup/plugin-terser';
 import license from 'rollup-plugin-license';
 import path from 'path';
-
+   
 const JS_SRC = '_javascript';
 const JS_DIST = 'assets/js/dist';
 const isProd = process.env.NODE_ENV === 'production';
