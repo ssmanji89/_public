@@ -1,7 +1,10 @@
 source "https://rubygems.org"
 
-# to publish on github page
-gem 'github-pages', group: :jekyll_plugins
+# gem "rails"
+gem "jekyll"
+gem 'github-pages'
+gem 'webrick'
 
-# to publich without github page
-#gem "jekyll"
+# Windows does not include zoneinfo files, so bundle the tzinfo-data gem
+# gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+

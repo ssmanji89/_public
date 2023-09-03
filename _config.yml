@@ -1,120 +1,36 @@
-repository: tomjoht/documentation-theme-jekyll
+#Update all the sections by editing the data.yml file inside _data folder.
 
-output: web
-# this property is useful for conditional filtering of content that is separate from the PDF.
+# Site Settings
+title: My Resume
+url: 'http://webjeda.com'
 
-topnav_title: sulemanji.pro
-# this appears on the top navigation bar next to the home button
+#change it according to your repository name
+# disabling since we are using a custom domain
+#baseurl: '/online-cv' 
 
-site_title: sully/Suleman Shahnawaz Manji
-# this appears in the html browser tab for the site title (seen mostly by search engines, not users)
+description: A beautiful Jekyll theme for creating resume
+# Style will be applied only after restarting the build or serve. Just choose one of the options.
+theme_skin: blue # blue turquoise green berry orange ceramic
+chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
 
-company_name: Copyright 2021 Google LLC
-# this appears in the footer
+# Tracker
+analytics: UA-83979019-1
 
-#github_editme_path: tomjoht/documentation-theme-jekyll/blob/gh-pages/
-# if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
-# gitlab_editme_path: tomjoht/documentation-theme-jekyll/blob/gh-pages/
-# if you're using GitLab, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
+# Build settings
+compress-site: yes
 
-#google_analytics: UA-66296557-1
-# if you have google-analytics ID, put it in. if not, edit this value to blank.
+encoding: "utf-8"
+compress_html: # - http://jch.penibelst.de/
+  clippings: all
+  ignore:
+    envs: development
 
-#host: 127.0.0.1
-# the preview server used. Leave as is.
-
-#port: 4000
-# the port where the preview is rendered. You can leave this as is unless you have other Jekyll builds using this same port that might cause conflicts. in that case, use another port such as 4006.
-
-exclude:
-  - .idea/
-  - .gitignore
-  - vendor
-# these are the files and directories that jekyll will exclude from the build
-
-feedback_subject_line: Feedback from Github Pages Site!
-
-feedback_email: suleman@botstuff.org
-# used as a contact email for the Feedback link in the top navigation bar
-
-# feedback_disable: true
-# if you uncomment the previous line, the Feedback link gets removed
-
-feedback_text: "Get in Touch with Suleman!"
-# if you uncomment the previous line, it changes the Feedback text
-
-feedback_link: "mailto:suleman@botStuff.org"
-# if you uncomment the previous line, it changes where the feedback link points to
-
-highlighter: rouge
-# library used for syntax highlighting
-
-markdown: kramdown
-kramdown:
- input: GFM
- auto_ids: true
- hard_wrap: false
- syntax_highlighter: rouge
-
-# filter used to process markdown. note that kramdown differs from github-flavored markdown in some subtle ways
-
-collections:
-  tooltips:
-    output: false
-# collections are declared here. this renders the content in _tooltips and processes it, but doesn't output it as actual files in the output unless you change output to true
-
-defaults:
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "page"
-      comments: true
-      # if you don't want to use Commento.io and just hide comments, change true to false wherever you see the comments property
-      search: true
-      sidebar: home_sidebar
-      topnav: topnav
-  -
-    scope:
-      path: ""
-      type: "tooltips"
-    values:
-      layout: "page"
-      search: true
-      tooltip: true
-
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      comments: true
-      # if you don't want to use Commento.io and just hide comments, change true to false wherever you see the comments property
-      search: true
-      sidebar: home_sidebar
-      topnav: topnav
-
-# these are defaults used for the frontmatter for these file types
-
-sidebars:
-- home_sidebar
-- mydoc_sidebar
-- product1_sidebar
-- product2_sidebar
-- other
-
-description: "Suleman Manji, a skilled and experienced individual with a strong interest in privileged accesses, automation, and applied technologies in Human Efforts. I have a Bachelor’s degree in Management of Information Systems from the Bauer School of Business at the University of Houston-Main, and I am an avid researcher with a passion for science documentaries and engineering methods."
-# the description is used in the feed.xml file
-
-# needed for sitemap.xml file only
-# url: http://idratherbewriting.com
-# baseurl: /documentation-theme-jekyll
-
-
-github: [metadata]
-
-
-# Copyright 2021 Google LLC
+# Development Settings
+port: 4000
+host: 0.0.0.0
+safe: false

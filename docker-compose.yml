@@ -1,11 +1,11 @@
-version: '2'
+version: '3'
+
 services:
-  server:
-    build:
-      context: .
-      dockerfile: Dockerfile
-    image: result/latest
-    ports:
-      - "4000:4000"
+  jekyll:
+    container_name: online-cv
+    image: jekyll/jekyll:4.0
+    command: jekyll serve --watch --force_polling --verbose --livereload --host 0.0.0.0
     volumes:
-      - ".:/src"
+      - .:/srv/jekyll
+    ports:
+      - 4000:4000
