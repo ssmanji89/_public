@@ -1,34 +1,11 @@
-<!-- The Footer -->
-
 <footer>
-  <div class="container px-lg-4">
-    <div class="d-flex justify-content-center align-items-center text-muted mx-md-3">
-      <p>
-        {%- capture _platform -%}
-          <a href="https://jekyllrb.com" target="_blank" rel="noopener">Jekyll</a>
-        {%- endcapture -%}
-
-        {%- capture _theme -%}
-          <a href="https://github.com/cotes2020/jekyll-theme-chirpy" target="_blank" rel="noopener">Chirpy</a>
-        {%- endcapture -%}
-
-        {{ site.data.locales[include.lang].meta | replace: ':PLATFORM', _platform | replace: ':THEME', _theme }}
-      </p>
-
-      <p>
-        {{- '©' }}
-        {{ 'now' | date: '%Y' }}
-        <a href="{{ site.social.links[0] }}">{{ site.social.name }}</a>.
-        {% if site.data.locales[include.lang].copyright.brief %}
-          <span
-            data-bs-toggle="tooltip"
-            data-bs-placement="top"
-            title="{{ site.data.locales[include.lang].copyright.verbose }}"
-          >
-            {{- site.data.locales[include.lang].copyright.brief -}}
-          </span>
-        {% endif %}
-      </p>
-    </div>
-  </div>
+            <div class="row">
+                <div class="col-lg-12 footer">
+               &copy;{{ site.time | date: "%Y"  }} {{site.company_name}}. All rights reserved. <br />
+{% if page.last_updated %}<span>Page last updated:</span> {{page.last_updated}}<br/>{% endif %} Site last generated: {{ site.time | date: "%b %-d, %Y"  }} <br />
+<p><img src="{{ "images/company_logo.png" }}" alt="Company logo"/></p>
+                </div>
+            </div>
 </footer>
+
+{% comment %} Copyright 2021 Google LLC {% endcomment %}
