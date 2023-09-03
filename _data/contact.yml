@@ -19,10 +19,6 @@
   url: 'https://join.slack.com/t/thedailydump/shared_invite/zt-227mty0vl-Z77p3une7uRiy6XVjs_dBw'
 # Uncomment and complete the url below to enable more contact options
 #
-- type: mastodon
-  icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
-  url:  ''                  # Fill with your Mastodon account page, rel="me" will be applied for verification
-
 - type: linkedin
   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
   url:  'https://linkedin.com/in/sulemanmanji'                  # Fill with your Linkedin homepage
