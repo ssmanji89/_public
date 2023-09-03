@@ -1,0 +1,117 @@
+@startuml
+left to right direction
+
+actor BusinessStakeholder
+actor ITAdministrator
+actor EndUser
+
+package "Target Technology Systems" {
+  rectangle "Servers" as Servers
+  rectangle "Email" as Email
+  rectangle "End-user" as EndUserSystem
+  rectangle "Identities" as Identities
+}
+
+usecase "Automated Daily Updates" as U1
+U1: Automated Daily Updates
+This use case involves automatically updating the software and systems on a regular basis, without manual intervention.
+Benefits of this use case may include improved security, stability, and performance of the systems being updated, as well as reduced workload for IT staff.
+
+usecase "Quick Configuration" as U2
+U2: Quick Configuration
+This use case involves quickly and easily configuring software and systems for optimal performance and functionality.
+Benefits of this use case may include reduced setup time, increased productivity, and more reliable system performance.
+
+usecase "Integrated PSA Billing" as U3
+U3: Integrated PSA Billing
+This use case involves integrating professional services automation (PSA) software with billing software to streamline the invoicing and payment process for services provided.
+Benefits of this use case may include improved accuracy and timeliness of billing, as well as increased efficiency and reduced workload for administrative staff.
+
+usecase "Remote User Support" as U4
+U4: Remote User Support
+This use case involves providing support and troubleshooting services to users who are located remotely.
+Benefits of this use case may include improved accessibility to support services for remote users, increased productivity and efficiency, and reduced costs associated with on-site support.
+
+usecase "Agentless Infrastructure Management" as U5
+U5: Agentless Infrastructure Management
+This use case involves managing and monitoring infrastructure without requiring the installation of additional agents or software.
+Benefits of this use case may include reduced complexity and cost associated with managing infrastructure, as well as improved performance and security.
+
+usecase "Automated Agent Deployment" as U6
+U6: Automated Agent Deployment
+This use case involves automatically deploying agents or software to systems without requiring manual intervention.
+Benefits of this use case may include improved efficiency and reduced workload for IT staff, as well as improved system performance and security.
+
+usecase "Simplified Asset Management and Inventory" as U7
+U7: Simplified Asset Management and Inventory
+This use case involves simplifying the process of managing and tracking assets and inventory.
+Benefits of this use case may include improved accuracy and timeliness of asset management and inventory tracking, as well as reduced workload for administrative staff.
+
+usecase "Proactive Network Monitoring" as U8
+U8: Proactive Network Monitoring
+This use case involves monitoring network activity in real-time to detect and prevent issues before they cause problems.
+Benefits of this use case may include improved network performance and reliability, reduced downtime, and improved security.
+
+usecase "Improved Compliance Management" as U9
+U9: Improved Compliance Management
+This use case involves managing compliance with legal, regulatory, and industry standards.
+Benefits of this use case may include reduced risk of penalties or legal action for non-compliance, improved security and privacy, and improved public perception and reputation.
+
+usecase "Enhanced Security Management" as U10
+U10: Enhanced Security Management
+This use case involves managing and monitoring security threats and vulnerabilities.
+Benefits of this use case may include reduced risk of security breaches or data loss, improved response times to security incidents, and improved compliance with security standards and regulations.
+
+usecase "Streamlined Business Processes" as U11
+U11: Streamlined Business Processes
+This use case involves optimizing and streamlining business processes to improve efficiency and reduce costs.
+Benefits of this use case may include improved productivity, reduced errors and delays, and increased customer satisfaction.
+
+usecase "Automated Resource Allocation" as U12
+U12: Automated Resource Allocation
+This use case involves automatically allocating resources (such as CPU or memory) to applications or processes based on their needs.
+Benefits of this use case may include improved system performance, reduced downtime, and improved efficiency.
+
+usecase "Automated Resource Optimization" as U13
+U13: Automated Resource Optimization
+This use case involves automatically optimizing system resources to improve performance and reduce waste.
+Benefits of this use case may include improved system performance, reduced energy consumption, and reduced costs.
+
+usecase "Automated Data Analysis" as U14
+U14: Automated Data Analysis
+This use case involves automatically analyzing data to identify patterns, trends, and insights.
+Benefits of this use case may include improved decision-making, reduced workload for analysts, and improved accuracy of data analysis.
+
+usecase "Automated Reporting" as U15
+U15: Automated Reporting
+
+(U9) --> BusinessStakeholder
+(U10) --> BusinessStakeholder
+(U11) --> BusinessStakeholder
+(U14) --> BusinessStakeholder
+(U15) --> BusinessStakeholder
+
+ITAdministrator --> (U1)
+ITAdministrator --> (U2)
+ITAdministrator --> (U3)
+ITAdministrator --> (U4)
+ITAdministrator --> (U5)
+ITAdministrator --> (U6)
+ITAdministrator --> (U7)
+ITAdministrator --> (U8)
+ITAdministrator --> (U9)
+ITAdministrator --> (U10)
+ITAdministrator --> (U11)
+ITAdministrator --> (U12)
+ITAdministrator --> (U13)
+ITAdministrator --> (U14)
+ITAdministrator --> (U15)
+
+EndUser --> (U4)
+
+Servers --> ITAdministrator
+Email --> ITAdministrator
+EndUserSystem --> EndUser
+Identities --> ITAdministrator
+
+@enduml
