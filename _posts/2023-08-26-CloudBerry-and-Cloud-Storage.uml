@@ -1,4 +1,4 @@
-@startmindmap
+{% plantuml %}
 * CloudBerry and Cloud Storage 
 ** Business Benefits
 *** Increased productivity and collaboration
@@ -40,4 +40,4 @@
 *** Implement backup and disaster recovery policies to improve data availability and reliability
 *** Implement security policies and access controls to reduce risk of data breaches and unauthorized access
 *** Monitor and analyze system performance to identify areas for improvement and cost reduction
-@endmindmap
+{% endplantuml %}

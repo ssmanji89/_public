@@ -22,7 +22,7 @@ Enroll device in Active Directory or Azure Active Directory
 Create local administrator account
 Add applications and certificates
 
-@startmindmap
+{% plantuml %}
 ' Define root node
 * Azure-based Cloud Native modern .NET application for the last mile of Endpoint provisioning requirements
 
@@ -70,11 +70,11 @@ Add applications and certificates
 *** Automated Windows endpoint configuration
 *** Manual Windows endpoint configuration
 
-@endmindmap
+{% endplantuml %}
 
 Return an Extensive MindMap using PlantUML code syntax, perform an analysis and return resulting content/knowledge expanding on the provided. 
 
-@startmindmap
+{% plantuml %}
 Task 1: Analysis and Design [[https://en.wikipedia.org/wiki/Systems_analysis]]
 * Analysis and Design
 ** Requirements Gathering [[https://www.investopedia.com/terms/r/requirements-gathering.asp]]
@@ -216,4 +216,4 @@ note right of Develop Project Plan: Process of defining the goals, scope, budget
 note right of Create Project Schedule: Process of planning and organizing the tasks and activities of the project, including its dependencies, milestones, and deadlines.
 note right of Monitor Project Progress: Process of tracking and reporting the status and performance of the project, including its progress, risks, and issues.
 
-@endmindmap
+{% endplantuml %}

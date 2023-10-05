@@ -1,4 +1,4 @@
-@startmindmap
+{% plantuml %}
 
 * Virtual Microsoft Lab
 ** Active Directory
@@ -21,4 +21,4 @@
 *** Infrastructure as Code
 *** Continuous Integration/Continuous Delivery
 
-@endmindmap
+{% endplantuml %}

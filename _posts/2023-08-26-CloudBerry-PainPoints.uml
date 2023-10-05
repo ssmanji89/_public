@@ -1,4 +1,4 @@
-@startmindmap
+{% plantuml %}
 * Optimizing Customer Experience with CloudBerry
 ** Technical Pain Points
 *** Difficulty managing files between local and remote storage
@@ -53,4 +53,4 @@
 *** Implement backup and disaster recovery policies to improve data availability and reliability
 *** Implement security policies and access controls to reduce risk of data breaches and unauthorized access
 *** Monitor and analyze system performance to identify areas for improvement and cost reduction
-@endmindmap
+{% endplantuml %}

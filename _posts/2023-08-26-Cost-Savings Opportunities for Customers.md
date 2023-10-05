@@ -1,4 +1,4 @@
-@startmindmap
+{% plantuml %}
 * Cost-Savings Opportunities for Customers
 ** Automated Services
 *** Automated Daily Updates
@@ -49,4 +49,4 @@
 *** Automated Reporting
 **** Generates reports automatically based on business needs
 **** Reduces time spent on manual reporting
-@endmindmap
+{% endplantuml %}

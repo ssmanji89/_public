@@ -62,5 +62,5 @@ Earnings Call Transcripts and EDGAR Filings
 - Crucial insights about corporate officers' uncertainty around future prospects
 - Changes and variance in topics, word frequencies, and sentiment
 - Aggregate features useful for indicating better-than-average market performance
-@endmindmap
+{% endplantuml %}
 

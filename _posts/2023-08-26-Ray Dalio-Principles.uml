@@ -1,4 +1,4 @@
-@startmindmap
+{% plantuml %}
 * Ray Dalio's Principles
 ** Principles
 *** Embrace Reality and Deal with It
@@ -254,4 +254,4 @@
 ***** The Importance of Understanding the Consequences of Monetary Policy
 ***** The Power of Understanding the Consequences of Monetary Policy
 ***** The Benefits of Understanding the Consequences of Monetary Policy
-@endmindmap
+{% endplantuml %}

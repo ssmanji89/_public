@@ -1,4 +1,4 @@
-@startmindmap
+{% plantuml %}
 !define ICONURL https://raw.githubusercontent.com/rabelenda/cicon-plantuml-sprites/v1.0.0/cicon/
 !define AWSICONURL https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v19.08.08/dist/
 !define ICONSIZE 32
@@ -35,4 +35,4 @@ skinparam NodePadding 5
 *** Data Extraction
 *** Data Transformation
 *** Data Loading
-@endmindmap
+{% endplantuml %}

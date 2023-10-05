@@ -1,4 +1,4 @@
-@startmindmap
+{% plantuml %}
 * The Laws of Trading (ISBN 978-1-119-57421-7)
 ** Trading Mindset
 *** The Importance of a Trading Mindset
@@ -57,4 +57,4 @@
 **** Futures Trading Techniques
 **** Forex Trading Techniques
 **** Options Trading Techniques
-@endmindmap
+{% endplantuml %}
