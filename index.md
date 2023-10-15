@@ -70,7 +70,7 @@ I'm a pragmatic principal engineer with a specialization in cloud services, priv
 
 ---
 ## Technical Proficiencies 
-- ***Cloud Platforms:** Azure, AWS, Oracle, IBM
+- ***Cloud Platforms:*** Azure, AWS, Oracle, IBM
 - ***Scripting Languages:*** PowerShell, Shell Scripting
 - ***Database Management:*** Microsoft SQL Server, Database Administration, Database Development
 - ***Networking:*** TCP/IP, DNS, DHCP, VPN, LAN, WAN
