@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Services and Pricing Guide
+title: RevHappy - Services and Pricing Guide
 subtitle: RevHappy AutoCare
 permalink: /revhappy-autocare/
 ---
