@@ -17,19 +17,16 @@ I'm a pragmatic principal engineer with a specialization in cloud services, priv
 - Diagnosed architectural bottlenecks in .NET C# Blazor Server application and set forth optimization roadmaps.
 - Integrated Azure monitoring tools for real-time insights and error rectification.
 - Achieved a 40% reduction in hosting costs by optimizing Azure-hosted infrastructure parameters.
-- ...
 
 **Infrastructure Engineer**
 **Fulcrum Technology - Houston, TX | December 2021 to March 2023**
 - Lead efforts in policy reconciliation, optimization, and agent upgrades for the CyberArk Endpoint Management system.
 - Collaborated on GDPR compliance efforts, ensuring data migration to appropriate Azure resources.
-- ...
 
 **Operations / Technical Architect**
 **Houston IT Tech, LLC. - Houston, TX | August 2019 to July 2020**
 - Spearheaded key initiatives aimed at driving operational efficiency and technical excellence.
 - Orchestrated a comprehensive SharePoint Cleanup, eliminating redundancies, and optimizing resources.
-- ...
 
 ---
 
@@ -67,23 +64,8 @@ I'm a pragmatic principal engineer with a specialization in cloud services, priv
 **Role:** Technical; SME/Vendor Management/Vendor Escalation  
 - Developed a data-driven, metrics-based Vendor Selection Worksheet using Excel, surveys, and industry use case scenarios.
 - Ensured multinational compliance with a focus on privileged access and cybersecurity insurances.
----
-## Contributions
-**GitHub:** Contributed to open-source projects related to Azure automation, showcasing proficiency in PowerShell scripting and cloud infrastructure management. [View Profile](https://github.com/ssmanji89)
 
 ---
-## Exploring Avenues 
-**Technical Writer**: Transform technical knowledge into user-friendly guides, manuals, and documentation.
-**Product Manager**: Strategize, plan, and serve as a bridge between multiple departments, leveraging technical background as an advantage.
-**Technology Consultant**: Offer businesses strategic advice on technology stack, operations, and future investments.
-**Sales Engineer or Solutions Architect**: Explain technical products to potential clients or customize solutions as per their needs.
-**Training & Development Specialist**: Impart knowledge on technical tools, software applications, and best practices.
-**Business Analyst**: Align technological solutions with business goals through a keen understanding of both domains.
-**Customer Success Manager**: Ensure post-sale product success, coordinating with tech teams for issue resolutions.
-**Technology Journalist or Blogger**: Dive into emerging technologies, trends, and industry insights through written pieces.
-**Technical Recruiter**: Spot and onboard talent in the tech domain, understanding the intricacies of tech roles.
-**Startup Advisor or Mentor**: Guide budding startups, setting them on a path of strong technological foundation.
-**R&D in Emerging Tech**: Venture into new technological horizons like VR/AR, blockchain, or AI, with the robust support of a strong tech background.
 
 ## Education
 **Bachelors of BA in Management Information Systems**
@@ -93,8 +75,11 @@ University of Houston - Houston, TX | January 2012 to June 2012
 **Certificate in Corporate Intrapreneurship**
 University of Houston - Houston, TX | January 2012 to June 2012
 
+## Contributions
+**GitHub:** Contributed to open-source projects related to Azure automation, showcasing proficiency in PowerShell scripting and cloud infrastructure management. [View Profile](https://github.com/ssmanji89)
+
 ## Skills
-**Technical Proficiencies:**
+***Technical Proficiencies:***
 - **Cloud Platforms:** Azure, AWS, Oracle, IBM
 - **Scripting Languages:** PowerShell, Shell Scripting
 - **Database Management:** Microsoft SQL Server, Database Administration, Database Development
@@ -120,8 +105,7 @@ University of Houston - Houston, TX | January 2012 to June 2012
 **Training & Development:**
 - **Training:** Training & Onboarding, Recruitment & Networking
 - **Professional Development:** Research & Technological Development, Technical Writing, Written Communication
-
-## Assessments
+***Assessments***
 - **Conscientiousness (Proficient) | September 2023**
   - Demonstrated well-organized, rule-abiding, and hard-working tendencies.
   - [Full Results](https://share.indeedassessments.com/attempts/b4a24f57368b55ea4d38da8e75007871eed53dc074545cb7)
@@ -140,3 +124,16 @@ University of Houston - Houston, TX | January 2012 to June 2012
 - **Work Motivation (Proficient) | November 2021**
   - Displayed a high level of motivation and discipline applied toward work.
   - [Full Results](https://share.indeedassessments.com/attempts/d5115f7fc85e02b340a34748799d8c29eed53dc074545cb7)
+
+***Exploring Avenues***
+**Technical Writer**: Transform technical knowledge into user-friendly guides, manuals, and documentation.
+**Product Manager**: Strategize, plan, and serve as a bridge between multiple departments, leveraging technical background as an advantage.
+**Technology Consultant**: Offer businesses strategic advice on technology stack, operations, and future investments.
+**Sales Engineer or Solutions Architect**: Explain technical products to potential clients or customize solutions as per their needs.
+**Training & Development Specialist**: Impart knowledge on technical tools, software applications, and best practices.
+**Business Analyst**: Align technological solutions with business goals through a keen understanding of both domains.
+**Customer Success Manager**: Ensure post-sale product success, coordinating with tech teams for issue resolutions.
+**Technology Journalist or Blogger**: Dive into emerging technologies, trends, and industry insights through written pieces.
+**Technical Recruiter**: Spot and onboard talent in the tech domain, understanding the intricacies of tech roles.
+**Startup Advisor or Mentor**: Guide budding startups, setting them on a path of strong technological foundation.
+**R&D in Emerging Tech**: Venture into new technological horizons like VR/AR, blockchain, or AI, with the robust support of a strong tech background.
