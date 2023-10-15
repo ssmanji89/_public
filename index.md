@@ -66,7 +66,7 @@ University of Houston - Houston, TX; January 2012 to June 2012
 GitHub: [View Profile](https://github.com/ssmanji89)
 Deans List: August 2022 - May 2013
 ---
-***Technical Proficiencies:***
+## Technical Proficiencies
 - **Cloud Platforms:** Azure, AWS, Oracle, IBM
 - **Scripting Languages:** PowerShell, Shell Scripting
 - **Database Management:** Microsoft SQL Server, Database Administration, Database Development
@@ -93,7 +93,7 @@ Deans List: August 2022 - May 2013
 - **Training:** Training & Onboarding, Recruitment & Networking
 - **Professional Development:** Research & Technological Development, Technical Writing, Written Communication
 ---
-***Assessments***
+## Assessments
 - **Conscientiousness (Proficient) | September 2023; [Full Results](https://share.indeedassessments.com/attempts/b4a24f57368b55ea4d38da8e75007871eed53dc074545cb7)**
   - Demonstrated well-organized, rule-abiding, and hard-working tendencies.
 - **Technical Support (Proficient) | November 2021; [Full Results](https://share.indeedassessments.com/attempts/5611fa33d2af7f3cac06a66e93bcc1efeed53dc074545cb7)**
@@ -107,7 +107,7 @@ Deans List: August 2022 - May 2013
 - **Work Motivation (Proficient); November 2021; [Full Results](https://share.indeedassessments.com/attempts/d5115f7fc85e02b340a34748799d8c29eed53dc074545cb7)**
   - Displayed a high level of motivation and discipline applied toward work.
 ---
-## ***Exploring Avenues***
+## Exploring Avenues
 - **Technical Writer**: Transform technical knowledge into user-friendly guides, manuals, and documentation.
 - **Product Manager**: Strategize, plan, and serve as a bridge between multiple departments, leveraging technical background as an advantage.
 - **Technology Consultant**: Offer businesses strategic advice on technology stack, operations, and future investments.
