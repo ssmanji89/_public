@@ -1,9 +1,9 @@
+
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}" width=90%>
   <head>
     <meta charset="UTF-8">
-
-{% seo %}
+    {% seo %}
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -14,28 +14,25 @@
   </head>
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
-
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description }}</h2>
     </header>
+<nav>
+  <ul>
+    {% for section, links in site.navbar-links %}
+      <li>
+        {{ section }}
+        <ul>
+          {% for link, url in links %}
+            <li><a href="{{ url }}">{{ link }}</a></li>
+          {% endfor %}
+        </ul>
+      </li>
+    {% endfor %}
+  </ul>
+</nav>
 
-    <!-- Inserting Navigation Bar Here -->
-    <nav>
-      <ul>
-        {% for section, links in site.navbar-links %}
-          <li>
-            {{ section }}
-            <ul>
-              {% for link, url in links %}
-                <li><a href="{{ url }}">{{ link }}</a></li>
-              {% endfor %}
-            </ul>
-          </li>
-        {% endfor %}
-      </ul>
-    </nav>
-    
     <main id="content" class="main-content" role="main" >
       {{ content }}
       <hr class="main-content">
