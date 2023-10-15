@@ -10,6 +10,7 @@ I'm a pragmatic principal engineer with a specialization in cloud services, priv
 - Mobile: 281.904.1969
 - Email: ssmanji89@gmail.com
 - LinkedIn: www.linkedin.com/in/sulemanmanji
+
 ---
 ## Work Experience
 ***Integrations Manager / Interim Azure C# .NET Support Engineering***
@@ -64,12 +65,12 @@ I'm a pragmatic principal engineer with a specialization in cloud services, priv
 - Ensured multinational compliance with a focus on privileged access and cybersecurity insurances.
 
 ---
-
 ## Education
 - ***Bachelors of BA in Management Information Systems***; University of Houston-Bauer College of Business - Houston, TX; January 2009 to May 2013
 - ***Certificate in Corporate Entrepreneurship***; University of Houston - Houston, TX; January 2012 to June 2012
 - ***Certificate in Corporate Intrapreneurship***; University of Houston - Houston, TX; January 2012 to June 2012
 
+---
 ## Technical Proficiencies 
 - ***Cloud Platforms:** Azure, AWS, Oracle, IBM
 - ***Scripting Languages:*** PowerShell, Shell Scripting
@@ -91,6 +92,7 @@ I'm a pragmatic principal engineer with a specialization in cloud services, priv
 - ***Client Relationship Management:*** Customer Relationship Management, Onsite Technical Support, Remote Client Communication
 - ***Training:*** Training & Onboarding, Recruitment & Networking
 - ***Professional Development:*** Research & Technological Development, Technical Writing, Written Communication
+
 ---
 ## Assessments
 ***Conscientiousness (Proficient); September 2023; [Full Results](https://share.indeedassessments.com/attempts/b4a24f57368b55ea4d38da8e75007871eed53dc074545cb7)***; Demonstrated well-organized, rule-abiding, and hard-working tendencies.
@@ -104,6 +106,7 @@ I'm a pragmatic principal engineer with a specialization in cloud services, priv
 ***Project Timeline Management (Proficient); November 2021; [Full Results](https://share.indeedassessments.com/attempts/ad06e39524d862ffa8083c362fd84210eed53dc074545cb7)***; Exhibited ability in prioritizing and allocating time to effectively achieve project deliverables.
   
 ***Work Motivation (Proficient); November 2021; [Full Results](https://share.indeedassessments.com/attempts/d5115f7fc85e02b340a34748799d8c29eed53dc074545cb7)***; Displayed a high level of motivation and discipline applied toward work.
+
 ---
 ## Avenues
 - **Technical Writer**: Transform technical knowledge into user-friendly guides, manuals, and documentation.
