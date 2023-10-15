@@ -11,34 +11,25 @@ I'm a pragmatic principal engineer with a specialization in cloud services, priv
 - Email: ssmanji89@gmail.com
 - LinkedIn: www.linkedin.com/in/sulemanmanji
 
+---
 ## Work Experience
-
 ### **Integrations Manager / Interim Azure C# .NET Support Engineering**
 **StackAdvisors, LLC. - Denver, CO | March 2023 to August 2023**
 - Diagnosed architectural bottlenecks in .NET C# Blazor Server application and set forth optimization roadmaps.
 - Integrated Azure monitoring tools for real-time insights and error rectification.
 - Achieved a 40% reduction in hosting costs by optimizing Azure-hosted infrastructure parameters.
-- ...
 
 ### **Infrastructure Engineer**
 **Fulcrum Technology - Houston, TX | December 2021 to March 2023**
 - Lead efforts in policy reconciliation, optimization, and agent upgrades for the CyberArk Endpoint Management system.
 - Collaborated on GDPR compliance efforts, ensuring data migration to appropriate Azure resources.
-- ...
 
 ### **Operations / Technical Architect**
 **Houston IT Tech, LLC. - Houston, TX | August 2019 to July 2020**
 - Spearheaded key initiatives aimed at driving operational efficiency and technical excellence.
 - Orchestrated a comprehensive SharePoint Cleanup, eliminating redundancies, and optimizing resources.
-- ...
-
 ---
-## Contributions
-
-- **GitHub:** Contributed to open-source projects related to Azure automation, showcasing proficiency in PowerShell scripting and cloud infrastructure management. [View Profile](https://github.com/ssmanji89)
-
----
-### Exploring Avenues 
+### Exploring new Avenues 
 - **Technical Writer**: Transform technical knowledge into user-friendly guides, manuals, and documentation.
 - **Product Manager**: Strategize, plan, and serve as a bridge between multiple departments, leveraging technical background as an advantage.
 - **Technology Consultant**: Offer businesses strategic advice on technology stack, operations, and future investments.
@@ -50,14 +41,34 @@ I'm a pragmatic principal engineer with a specialization in cloud services, priv
 - **Technical Recruiter**: Spot and onboard talent in the tech domain, understanding the intricacies of tech roles.
 - **Startup Advisor or Mentor**: Guide budding startups, setting them on a path of strong technological foundation.
 - **R&D in Emerging Tech**: Venture into new technological horizons like VR/AR, blockchain, or AI, with the robust support of a strong tech background.
-
+---
 ## Education
 ### **Bachelors of BA in Management Information Systems**
 **University of Houston-Bauer College of Business - Houston, TX | January 2009 to May 2013**
-
 ### **Certificate in Corporate Entrepreneurship**
 **University of Houston - Houston, TX | January 2012 to June 2012**
-
+### **Certificate in Corporate Intrapreneurship**
+**University of Houston - Houston, TX | January 2011 to June 2011**
+## Assessments
+- **Conscientiousness (Proficient); September 2023**
+  - Demonstrated well-organized, rule-abiding, and hard-working tendencies.
+  - [Full Results](https://share.indeedassessments.com/attempts/b4a24f57368b55ea4d38da8e75007871eed53dc074545cb7)
+- **Technical Support (Proficient); November 2021**
+  - Exhibited proficiency in performing software, hardware, and network operations.
+  - [Full Results](https://share.indeedassessments.com/attempts/5611fa33d2af7f3cac06a66e93bcc1efeed53dc074545cb7)
+- **Technical support: Customer situations — Proficient (Proficient); August 2020**
+  - Shown adeptness in responding to technical support situations with sensitivity.
+  - [Full Results](https://share.indeedassessments.com/attempts/07b4e7e62e91b93ea1f7d9cad8fa05d0eed53dc074545cb7)
+- **Analyzing Data (Proficient); October 2023**
+  - Capable of interpreting and producing graphs, identifying trends, and drawing justifiable conclusions from data.
+  - [Full Results](https://share.indeedassessments.com/attempts/37868e532570a885784ff74262097ea8eed53dc074545cb7)
+- **Project Timeline Management (Proficient); November 2021**
+  - Exhibited ability in prioritizing and allocating time to effectively achieve project deliverables.
+  - [Full Results](https://share.indeedassessments.com/attempts/ad06e39524d862ffa8083c362fd84210eed53dc074545cb7)
+- **Work Motivation (Proficient); November 2021**
+  - Displayed a high level of motivation and discipline applied toward work.
+  - [Full Results](https://share.indeedassessments.com/attempts/d5115f7fc85e02b340a34748799d8c29eed53dc074545cb7)
+    
 ## Skills
 ### **Technical Proficiencies:**
 - **Cloud Platforms:** Azure, AWS, Oracle, IBM
@@ -91,28 +102,8 @@ I'm a pragmatic principal engineer with a specialization in cloud services, priv
 - **Training:** Training & Onboarding, Recruitment & Networking
 - **Professional Development:** Research & Technological Development, Technical Writing, Written Communication
 
-## Assessments
-- **Conscientiousness (Proficient) | September 2023**
-  - Demonstrated well-organized, rule-abiding, and hard-working tendencies.
-  - [Full Results](https://share.indeedassessments.com/attempts/b4a24f57368b55ea4d38da8e75007871eed53dc074545cb7)
-- **Technical Support (Proficient) | November 2021**
-  - Exhibited proficiency in performing software, hardware, and network operations.
-  - [Full Results](https://share.indeedassessments.com/attempts/5611fa33d2af7f3cac06a66e93bcc1efeed53dc074545cb7)
-- **Technical support: Customer situations — Proficient (Proficient) | August 2020**
-  - Shown adeptness in responding to technical support situations with sensitivity.
-  - [Full Results](https://share.indeedassessments.com/attempts/07b4e7e62e91b93ea1f7d9cad8fa05d0eed53dc074545cb7)
-- **Analyzing Data (Proficient) | October 2023**
-  - Capable of interpreting and producing graphs, identifying trends, and drawing justifiable conclusions from data.
-  - [Full Results](https://share.indeedassessments.com/attempts/37868e532570a885784ff74262097ea8eed53dc074545cb7)
-- **Project Timeline Management (Proficient) | November 2021**
-  - Exhibited ability in prioritizing and allocating time to effectively achieve project deliverables.
-  - [Full Results](https://share.indeedassessments.com/attempts/ad06e39524d862ffa8083c362fd84210eed53dc074545cb7)
-- **Work Motivation (Proficient) | November 2021**
-  - Displayed a high level of motivation and discipline applied toward work.
-  - [Full Results](https://share.indeedassessments.com/attempts/d5115f7fc85e02b340a34748799d8c29eed53dc074545cb7)
-
+---
 ## Projects
-
 ### Azure Infrastructure Optimization
 **Technologies:** Azure, PowerShell
 **Duration:** March 2023 - August 2023
