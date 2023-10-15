@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Expert IT Consulting for Business Growth
 ---
 
