@@ -55,6 +55,7 @@ Fulcrum Technology - Houston, TX; December 2021 to March 2023
 Houston IT Tech, LLC. - Houston, TX; August 2019 to July 2020
 - Spearheaded key initiatives aimed at driving operational efficiency and technical excellence.
 - Orchestrated a comprehensive SharePoint Cleanup, eliminating redundancies, and optimizing resources.
+
 ---
 ## Education
 - ***Bachelors of BA in Management Information Systems***; University of Houston-Bauer College of Business - Houston, TX; January 2009 to May 2013
