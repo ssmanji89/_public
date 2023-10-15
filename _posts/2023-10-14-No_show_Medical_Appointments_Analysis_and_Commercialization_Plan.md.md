@@ -1,5 +1,4 @@
 ---
-title: "No-show Medical Appointments: An In-depth Analysis"
 date: 2023-10-15
 tags: [no show, appointment, aws]
 ---
