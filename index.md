@@ -71,11 +71,17 @@ Deans List: August 2022 - May 2013
 ## Technical Proficiencies 
 
 ***Cloud Platforms:** Azure, AWS, Oracle, IBM
+
 ***Scripting Languages:*** PowerShell, Shell Scripting
+
 ***Database Management:*** Microsoft SQL Server, Database Administration, Database Development
+
 ***Networking:*** TCP/IP, DNS, DHCP, VPN, LAN, WAN
+
 ***Virtualization Technologies:*** VMWare, Microsoft Hyper-V, vCenter
+
 ***Operating Systems:*** Windows Server & Desktop, Linux
+
 ***Web Technologies:*** IIS, Load Balancing, High Availability
 
 ### Cybersecurity
