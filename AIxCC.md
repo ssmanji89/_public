@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: AIxCC 
 subtitle: DARPA - Artificial Intelligence Cyber Challenge (AIxCC)
 permalink: /aixcc
