@@ -104,9 +104,9 @@ Deans List: August 2022 - May 2013
 - Shown adeptness in responding to technical support situations with sensitivity.
 **Analyzing Data (Proficient) | October 2023; [Full Results](https://share.indeedassessments.com/attempts/37868e532570a885784ff74262097ea8eed53dc074545cb7)**
 - Capable of interpreting and producing graphs, identifying trends, and drawing justifiable conclusions from data.
-- **Project Timeline Management (Proficient) | November 2021; [Full Results](https://share.indeedassessments.com/attempts/ad06e39524d862ffa8083c362fd84210eed53dc074545cb7)**
+**Project Timeline Management (Proficient) | November 2021; [Full Results](https://share.indeedassessments.com/attempts/ad06e39524d862ffa8083c362fd84210eed53dc074545cb7)**
 - Exhibited ability in prioritizing and allocating time to effectively achieve project deliverables.
-- **Work Motivation (Proficient); November 2021; [Full Results](https://share.indeedassessments.com/attempts/d5115f7fc85e02b340a34748799d8c29eed53dc074545cb7)**
+**Work Motivation (Proficient); November 2021; [Full Results](https://share.indeedassessments.com/attempts/d5115f7fc85e02b340a34748799d8c29eed53dc074545cb7)**
 - Displayed a high level of motivation and discipline applied toward work.
 ---
 ## Exploring Avenues
