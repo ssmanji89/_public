@@ -126,14 +126,14 @@ University of Houston - Houston, TX | January 2012 to June 2012
   - [Full Results](https://share.indeedassessments.com/attempts/d5115f7fc85e02b340a34748799d8c29eed53dc074545cb7)
 
 ## ***Exploring Avenues***
-**Technical Writer**: Transform technical knowledge into user-friendly guides, manuals, and documentation.
-**Product Manager**: Strategize, plan, and serve as a bridge between multiple departments, leveraging technical background as an advantage.
-**Technology Consultant**: Offer businesses strategic advice on technology stack, operations, and future investments.
-**Sales Engineer or Solutions Architect**: Explain technical products to potential clients or customize solutions as per their needs.
-**Training & Development Specialist**: Impart knowledge on technical tools, software applications, and best practices.
-**Business Analyst**: Align technological solutions with business goals through a keen understanding of both domains.
-**Customer Success Manager**: Ensure post-sale product success, coordinating with tech teams for issue resolutions.
-**Technology Journalist or Blogger**: Dive into emerging technologies, trends, and industry insights through written pieces.
-**Technical Recruiter**: Spot and onboard talent in the tech domain, understanding the intricacies of tech roles.
-**Startup Advisor or Mentor**: Guide budding startups, setting them on a path of strong technological foundation.
-**R&D in Emerging Tech**: Venture into new technological horizons like VR/AR, blockchain, or AI, with the robust support of a strong tech background.
+- **Technical Writer**: Transform technical knowledge into user-friendly guides, manuals, and documentation.
+- **Product Manager**: Strategize, plan, and serve as a bridge between multiple departments, leveraging technical background as an advantage.
+- **Technology Consultant**: Offer businesses strategic advice on technology stack, operations, and future investments.
+- **Sales Engineer or Solutions Architect**: Explain technical products to potential clients or customize solutions as per their needs.
+- **Training & Development Specialist**: Impart knowledge on technical tools, software applications, and best practices.
+- **Business Analyst**: Align technological solutions with business goals through a keen understanding of both domains.
+- **Customer Success Manager**: Ensure post-sale product success, coordinating with tech teams for issue resolutions.
+- **Technology Journalist or Blogger**: Dive into emerging technologies, trends, and industry insights through written pieces.
+- **Technical Recruiter**: Spot and onboard talent in the tech domain, understanding the intricacies of tech roles.
+- **Startup Advisor or Mentor**: Guide budding startups, setting them on a path of strong technological foundation.
+- **R&D in Emerging Tech**: Venture into new technological horizons like VR/AR, blockchain, or AI, with the robust support of a strong tech background.
