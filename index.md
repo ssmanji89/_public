@@ -17,56 +17,44 @@ I'm a pragmatic principal engineer with a specialization in cloud services, priv
 - Diagnosed architectural bottlenecks in .NET C# Blazor Server application and set forth optimization roadmaps.
 - Integrated Azure monitoring tools for real-time insights and error rectification.
 - Achieved a 40% reduction in hosting costs by optimizing Azure-hosted infrastructure parameters.
-
 **Infrastructure Engineer**
 **Fulcrum Technology - Houston, TX | December 2021 to March 2023**
 - Lead efforts in policy reconciliation, optimization, and agent upgrades for the CyberArk Endpoint Management system.
 - Collaborated on GDPR compliance efforts, ensuring data migration to appropriate Azure resources.
-
 **Operations / Technical Architect**
 **Houston IT Tech, LLC. - Houston, TX | August 2019 to July 2020**
 - Spearheaded key initiatives aimed at driving operational efficiency and technical excellence.
 - Orchestrated a comprehensive SharePoint Cleanup, eliminating redundancies, and optimizing resources.
-
 ---
-
 ## Projects & Professional Engagements
 ***McKesson - USA - CyberArk Endpoint Privileges Management***
 **Role:** Technical; SME/Architect, Engineer  
 - Methodically processed policy reconciliation, optimization, and agent upgrades for the CyberArk Endpoint Management system, working closely with Application and Operational Support teams.
-
 ***McKesson - UK/Ireland - CorePAS Azure Deployment***
 **Role:** Technical; Engineer, Junior  
 - Collaborated on GDPR efforts, ensuring data migration to appropriate Azure resources and maintaining system parity between Enterprise Active Directory Domain Implementations.
-
 ***McKesson - Security Architecture - UK/Ireland/Canada/USA - VMWare Security Posture Reporting***
 **Role:** Technical; SME/Architect, Engineer  
 - Architected a robust security posture reporting system for VMware using vCenter and PowerShell across the global VMware footprint.
 - Leveraged CIS Level Compliance as standard compliance indicators, relaying the status to a Splunk collector(s).
-
 ***Exterran - CyberArk PrivilegeCloud PAM Implementation***
 **Role:** Technical; SME/Architect, Engineer, Project Manager  
 - Spearheaded the implementation of CyberArk PrivilegeCloud from KeePass for Privileged Accesses.
 - Formulated internal privileged access processes, migrating secrets data from KeePass, and launched an automated credential rotation program specifically for priority Active Directory accounts.
-
 ***Tri-Supply - Ransomware Incident Response***
 **Role:** Technical; SME/Architect, Engineer  
 - Played a crucial role in a multi-faceted ransomware incident response, including rebuilding the Active Directory domain.
 - Collaborated with other Architects, Engineers, and Executives in-person and remotely for rebuilding domain, network infrastructure, and re-imaging servers and workstations.
 - Implemented CortexEDR, TaniumXDR, and Standard Policies for IT Teams to leverage moving forward to ensure long-term success.
-
 ***Texas Children's Hospital - Directory Services***
 **Role:** Technical; SME/Escalation Support, Engineer  
 - Championed the design and implementation of shared Azure Global Administrator accesses using PowerShell.
 - Leveraged technologies like ServiceNOW, PowerShell, and hybrid Azure Active Directory infrastructure to ensure optimal directory services with a Remote Team of eight.
-
 ***CommScope - Vendor Selection***
 **Role:** Technical; SME/Vendor Management/Vendor Escalation  
 - Developed a data-driven, metrics-based Vendor Selection Worksheet using Excel, surveys, and industry use case scenarios.
 - Ensured multinational compliance with a focus on privileged access and cybersecurity insurances.
-
 ---
-
 ## Education
 ***Bachelors of BA in Management Information Systems***
 University of Houston-Bauer College of Business - Houston, TX; January 2009 to May 2013
@@ -77,7 +65,6 @@ University of Houston - Houston, TX; January 2012 to June 2012
 ***Contributions***
 GitHub: [View Profile](https://github.com/ssmanji89)
 Deans List: August 2022 - May 2013
-
 ---
 ***Technical Proficiencies:***
 - **Cloud Platforms:** Azure, AWS, Oracle, IBM
