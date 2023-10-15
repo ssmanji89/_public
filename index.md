@@ -69,6 +69,7 @@ GitHub: [View Profile](https://github.com/ssmanji89)
 Deans List: August 2022 - May 2013
 
 ## Technical Proficiencies 
+
 - **Cloud Platforms:** Azure, AWS, Oracle, IBM
 - **Scripting Languages:** PowerShell, Shell Scripting
 - **Database Management:** Microsoft SQL Server, Database Administration, Database Development
@@ -76,21 +77,26 @@ Deans List: August 2022 - May 2013
 - **Virtualization Technologies:** VMWare, Microsoft Hyper-V, vCenter
 - **Operating Systems:** Windows Server & Desktop, Linux
 - **Web Technologies:** IIS, Load Balancing, High Availability
+
 **Cybersecurity:**
 - **Privileged Access Management:** CyberArk Endpoint Privileges Management, CyberArk PrivilegeCloud PAM Implementation
 - **Compliance & Reporting:** GDPR Compliance, CIS Level Compliance, VMWare Security Posture Reporting
 - **Incident Response:** Ransomware Incident Response, Network Firewalls, SSH
+
 **Project & Operations Management:**
 - **Project Management:** Agile, Scrum, Kanban, Project Timeline Management
 - **Operations:** NOC Oversight, IT Infrastructure Upgrade, Deployment Workflows, Hosting & Infrastructure Optimization
+
 **Software & Tools:**
 - **Development Tools:** .NET C# Blazor, ServiceNow, Citrix
 - **Monitoring Tools:** Azure Monitoring Tools, vCenter
 - **Collaboration & Communication:** Microsoft Office, Microsoft Exchange, Microsoft Project
 - **IT Management:** ConnectWise (7 years), ScreenConnect (4 years), LabTech (7 years)
+
 **Customer & Client Relations:**
 - **Customer Service:** Technical Support, Help Desk, Client Services
 - **Client Relationship Management:** Customer Relationship Management, Onsite Technical Support, Remote Client Communication
+
 **Training & Development:**
 - **Training:** Training & Onboarding, Recruitment & Networking
 - **Professional Development:** Research & Technological Development, Technical Writing, Written Communication
