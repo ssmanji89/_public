@@ -125,7 +125,7 @@ University of Houston - Houston, TX | January 2012 to June 2012
   - Displayed a high level of motivation and discipline applied toward work.
   - [Full Results](https://share.indeedassessments.com/attempts/d5115f7fc85e02b340a34748799d8c29eed53dc074545cb7)
 
-***Exploring Avenues***
+## ***Exploring Avenues***
 **Technical Writer**: Transform technical knowledge into user-friendly guides, manuals, and documentation.
 **Product Manager**: Strategize, plan, and serve as a bridge between multiple departments, leveraging technical background as an advantage.
 **Technology Consultant**: Offer businesses strategic advice on technology stack, operations, and future investments.
