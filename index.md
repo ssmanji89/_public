@@ -68,17 +68,17 @@ I'm a pragmatic principal engineer with a specialization in cloud services, priv
 ---
 
 ## Education
-**Bachelors of BA in Management Information Systems**
-University of Houston-Bauer College of Business - Houston, TX | January 2009 to May 2013
-**Certificate in Corporate Entrepreneurship**
-University of Houston - Houston, TX | January 2012 to June 2012
-**Certificate in Corporate Intrapreneurship**
-University of Houston - Houston, TX | January 2012 to June 2012
+***Bachelors of BA in Management Information Systems***
+University of Houston-Bauer College of Business - Houston, TX; January 2009 to May 2013
+***Certificate in Corporate Entrepreneurship***
+University of Houston - Houston, TX; January 2012 to June 2012
+***Certificate in Corporate Intrapreneurship***
+University of Houston - Houston, TX; January 2012 to June 2012
+***Contributions***
+GitHub: [View Profile](https://github.com/ssmanji89)
+Deans List: August 2022 - May 2013
 
-## Contributions
-**GitHub:** Contributed to open-source projects related to Azure automation, showcasing proficiency in PowerShell scripting and cloud infrastructure management. [View Profile](https://github.com/ssmanji89)
-
-## Skills
+---
 ***Technical Proficiencies:***
 - **Cloud Platforms:** Azure, AWS, Oracle, IBM
 - **Scripting Languages:** PowerShell, Shell Scripting
@@ -105,26 +105,21 @@ University of Houston - Houston, TX | January 2012 to June 2012
 **Training & Development:**
 - **Training:** Training & Onboarding, Recruitment & Networking
 - **Professional Development:** Research & Technological Development, Technical Writing, Written Communication
+---
 ***Assessments***
-- **Conscientiousness (Proficient) | September 2023**
+- **Conscientiousness (Proficient) | September 2023; [Full Results](https://share.indeedassessments.com/attempts/b4a24f57368b55ea4d38da8e75007871eed53dc074545cb7)**
   - Demonstrated well-organized, rule-abiding, and hard-working tendencies.
-  - [Full Results](https://share.indeedassessments.com/attempts/b4a24f57368b55ea4d38da8e75007871eed53dc074545cb7)
-- **Technical Support (Proficient) | November 2021**
+- **Technical Support (Proficient) | November 2021; [Full Results](https://share.indeedassessments.com/attempts/5611fa33d2af7f3cac06a66e93bcc1efeed53dc074545cb7)**
   - Exhibited proficiency in performing software, hardware, and network operations.
-  - [Full Results](https://share.indeedassessments.com/attempts/5611fa33d2af7f3cac06a66e93bcc1efeed53dc074545cb7)
-- **Technical support: Customer situations — Proficient (Proficient) | August 2020**
+- **Technical support: Customer situations — Proficient (Proficient) | August 2020; [Full Results](https://share.indeedassessments.com/attempts/07b4e7e62e91b93ea1f7d9cad8fa05d0eed53dc074545cb7)**
   - Shown adeptness in responding to technical support situations with sensitivity.
-  - [Full Results](https://share.indeedassessments.com/attempts/07b4e7e62e91b93ea1f7d9cad8fa05d0eed53dc074545cb7)
-- **Analyzing Data (Proficient) | October 2023**
+- **Analyzing Data (Proficient) | October 2023; [Full Results](https://share.indeedassessments.com/attempts/37868e532570a885784ff74262097ea8eed53dc074545cb7)**
   - Capable of interpreting and producing graphs, identifying trends, and drawing justifiable conclusions from data.
-  - [Full Results](https://share.indeedassessments.com/attempts/37868e532570a885784ff74262097ea8eed53dc074545cb7)
-- **Project Timeline Management (Proficient) | November 2021**
+- **Project Timeline Management (Proficient) | November 2021; [Full Results](https://share.indeedassessments.com/attempts/ad06e39524d862ffa8083c362fd84210eed53dc074545cb7)**
   - Exhibited ability in prioritizing and allocating time to effectively achieve project deliverables.
-  - [Full Results](https://share.indeedassessments.com/attempts/ad06e39524d862ffa8083c362fd84210eed53dc074545cb7)
-- **Work Motivation (Proficient) | November 2021**
+- **Work Motivation (Proficient); November 2021; [Full Results](https://share.indeedassessments.com/attempts/d5115f7fc85e02b340a34748799d8c29eed53dc074545cb7)**
   - Displayed a high level of motivation and discipline applied toward work.
-  - [Full Results](https://share.indeedassessments.com/attempts/d5115f7fc85e02b340a34748799d8c29eed53dc074545cb7)
-
+---
 ## ***Exploring Avenues***
 - **Technical Writer**: Transform technical knowledge into user-friendly guides, manuals, and documentation.
 - **Product Manager**: Strategize, plan, and serve as a bridge between multiple departments, leveraging technical background as an advantage.
