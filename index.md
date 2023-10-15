@@ -11,8 +11,9 @@ I'm a pragmatic principal engineer with a specialization in cloud services, priv
 - LinkedIn: [www.linkedin.com/in/sulemanmanji](https://www.linkedin.com/in/sulemanmanji)
 
 ---
-## Projects & Professional Engagements; ***McKesson - USA - CyberArk Endpoint Privileges Management***
-**Role:** Technical; SME/Architect, Engineer  
+## Projects & Professional Engagements
+
+***McKesson - USA - CyberArk Endpoint Privileges Management***; **Role:** Technical; SME/Architect, Engineer  
 - Methodically processed policy reconciliation, optimization, and agent upgrades for the CyberArk Endpoint Management system, working closely with Application and Operational Support teams.
 
 ***McKesson - UK/Ireland - CorePAS Azure Deployment***; **Role:** Technical; Engineer, Junior  
