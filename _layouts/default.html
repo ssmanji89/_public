@@ -10,6 +10,21 @@
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <style>
+      /* Flexbox layout for columns */
+      .main-content {
+        display: flex;
+        flex-direction: row;
+      }
+      .content-column {
+        flex: 1;
+        padding: 15px;
+      }
+      .posts-column {
+        flex-basis: 300px; /* Set a fixed width for the posts column */
+        padding: 15px;
+      }
+    </style>
     {% include head-custom.html %}
   </head>
   <body>
@@ -21,8 +36,23 @@
     </header>
 
     <main id="content" class="main-content" role="main">
-      {{ content }}
-
+      <div class="content-column">
+        {{ content }}
+      </div>
+      <!-- Posts Column -->
+      <div class="posts-column">
+        <section id="posts">
+          <h2>Blog Posts</h2>
+          <ul>
+            {% for post in site.posts %}
+              <li>
+                <a href="{{ post.url }}">{{ post.title }}</a>
+                <span class="post-date">{{ post.date | date: "%B %d, %Y" }}</span>
+              </li>
+            {% endfor %}
+          </ul>
+        </section>
+      </div>
       <footer class="site-footer">
         {% if site.github.is_project_page %}
           <span class="site-footer-owner" align=center><a href="www.sulemanji.com">www.sulemanji.com</a></span>
