@@ -11,150 +11,121 @@ I'm a pragmatic principal engineer with a specialization in cloud services, priv
 - Email: ssmanji89@gmail.com
 - LinkedIn: www.linkedin.com/in/sulemanmanji
 
-## Languages
-- English (Native)
-- Urdu
-- Hindi
+## Work Experience
 
-## Certifications
-- Microsoft Certified: Azure Administrator Associate
-- Microsoft Certified: Azure Solutions Architect* 
-- CyberArk Cloud Delivery Engineer*
-- CyberArk Guardian*
-- CyberArk Defender*
-- CyberArk Sentry*
-- CyberArk Loosely Connected Devices
-- CyberArk Trustee
-- Axcient Certified Engineer
+### **Integrations Manager / Interim Azure C# .NET Support Engineering**
+**StackAdvisors, LLC. - Denver, CO | March 2023 to August 2023**
+- Diagnosed architectural bottlenecks in .NET C# Blazor Server application and set forth optimization roadmaps.
+- Integrated Azure monitoring tools for real-time insights and error rectification.
+- Achieved a 40% reduction in hosting costs by optimizing Azure-hosted infrastructure parameters.
+- ...
 
-## Honors and Awards
-- Organizational Recognition - Make It Better Award - ERGOS Technology - 2014
-- Dean's List - The University of Houston - Bauer School of Business - 2013
-- Dean's List - The University of Houston - Bauer School of Business - 2012 
-- Dean's List - The University of Houston - Bauer School of Business - 2011 
+### **Infrastructure Engineer**
+**Fulcrum Technology - Houston, TX | December 2021 to March 2023**
+- Lead efforts in policy reconciliation, optimization, and agent upgrades for the CyberArk Endpoint Management system.
+- Collaborated on GDPR compliance efforts, ensuring data migration to appropriate Azure resources.
+- ...
+
+### **Operations / Technical Architect**
+**Houston IT Tech, LLC. - Houston, TX | August 2019 to July 2020**
+- Spearheaded key initiatives aimed at driving operational efficiency and technical excellence.
+- Orchestrated a comprehensive SharePoint Cleanup, eliminating redundancies, and optimizing resources.
+- ...
+
+---
+## Contributions
+
+- **GitHub:** Contributed to open-source projects related to Azure automation, showcasing proficiency in PowerShell scripting and cloud infrastructure management. [View Profile](https://github.com/ssmanji89)
+
+---
+### Exploring Avenues 
+- **Technical Writer**: Transform technical knowledge into user-friendly guides, manuals, and documentation.
+- **Product Manager**: Strategize, plan, and serve as a bridge between multiple departments, leveraging technical background as an advantage.
+- **Technology Consultant**: Offer businesses strategic advice on technology stack, operations, and future investments.
+- **Sales Engineer or Solutions Architect**: Explain technical products to potential clients or customize solutions as per their needs.
+- **Training & Development Specialist**: Impart knowledge on technical tools, software applications, and best practices.
+- **Business Analyst**: Align technological solutions with business goals through a keen understanding of both domains.
+- **Customer Success Manager**: Ensure post-sale product success, coordinating with tech teams for issue resolutions.
+- **Technology Journalist or Blogger**: Dive into emerging technologies, trends, and industry insights through written pieces.
+- **Technical Recruiter**: Spot and onboard talent in the tech domain, understanding the intricacies of tech roles.
+- **Startup Advisor or Mentor**: Guide budding startups, setting them on a path of strong technological foundation.
+- **R&D in Emerging Tech**: Venture into new technological horizons like VR/AR, blockchain, or AI, with the robust support of a strong tech background.
 
 ## Education
-- University of Houston, C.T. Bauer College of Business - Bachelor of Business Administration in Management Information Systems (2013)
-- University of Houston, Wolff Center for Entrepreneurship- Acknowledgement of Corporate Entrepreneurship (2012)
-- University of Houston, Wolff Center for Entrepreneurship - Acknowledgement of Corporate Intrapreneurship (2011)
-- Dulles High School - High School Diploma in Liberal Arts and Sciences, General Studies and Humanities (2008)
+### **Bachelors of BA in Management Information Systems**
+**University of Houston-Bauer College of Business - Houston, TX | January 2009 to May 2013**
 
----
+### **Certificate in Corporate Entrepreneurship**
+**University of Houston - Houston, TX | January 2012 to June 2012**
 
-## Technical
+## Skills
+### **Technical Proficiencies:**
+- **Cloud Platforms:** Azure, AWS, Oracle, IBM
+- **Scripting Languages:** PowerShell, Shell Scripting
+- **Database Management:** Microsoft SQL Server, Database Administration, Database Development
+- **Networking:** TCP/IP, DNS, DHCP, VPN, LAN, WAN
+- **Virtualization Technologies:** VMWare, Microsoft Hyper-V, vCenter
+- **Operating Systems:** Windows Server & Desktop, Linux
+- **Web Technologies:** IIS, Load Balancing, High Availability
 
-### Systems Implementations
-- Orchestrated end-to-end systems implementations using Agile and DevOps methodologies, achieving a 95% success rate.
-  
-### Systems Integrations
-- Engineered and deployed API integrations, resulting in a 30% improvement in system efficiency.
+### **Cybersecurity:**
+- **Privileged Access Management:** CyberArk Endpoint Privileges Management, CyberArk PrivilegeCloud PAM Implementation
+- **Compliance & Reporting:** GDPR Compliance, CIS Level Compliance, VMWare Security Posture Reporting
+- **Incident Response:** Ransomware Incident Response, Network Firewalls, SSH
 
-### Managed Services
-- Administered a suite of managed services that reduced infrastructure costs by 20%.
+### **Project & Operations Management:**
+- **Project Management:** Agile, Scrum, Kanban, Project Timeline Management
+- **Operations:** NOC Oversight, IT Infrastructure Upgrade, Deployment Workflows, Hosting & Infrastructure Optimization
 
-### Cloud Computing
-- Led cloud migration projects on AWS and Azure, attaining a 99.9% uptime.
-  
-### Infrastructure Virtualization
-- Implemented and maintained virtual environments using VMware, reducing hardware costs by 40%.
+### **Software & Tools:**
+- **Development Tools:** .NET C# Blazor, ServiceNow, Citrix
+- **Monitoring Tools:** Azure Monitoring Tools, vCenter
+- **Collaboration & Communication:** Microsoft Office, Microsoft Exchange, Microsoft Project
+- **IT Management:** ConnectWise (7 years), ScreenConnect (4 years), LabTech (7 years)
 
-### Network Administration
-- Oversaw a complex network infrastructure with a focus on reliability and security.
+### **Customer & Client Relations:**
+- **Customer Service:** Technical Support, Help Desk, Client Services
+- **Client Relationship Management:** Customer Relationship Management, Onsite Technical Support, Remote Client Communication
 
-### Microsoft SQL Server
-- Administered SQL Server databases with a focus on high availability and disaster recovery.
-  
-### Troubleshooting
-- Achieved a 98% first-time-fix rate through meticulous problem-solving.
+### **Training & Development:**
+- **Training:** Training & Onboarding, Recruitment & Networking
+- **Professional Development:** Research & Technological Development, Technical Writing, Written Communication
 
-### Desktop Administration
-- Maintained enterprise desktop environments, achieving a 99% user satisfaction rate.
-  
-### Virtualized Desktop Computing
-- Deployed VDI solutions for remote work, improving team productivity by 25%.
+## Assessments
+- **Conscientiousness (Proficient) | September 2023**
+  - Demonstrated well-organized, rule-abiding, and hard-working tendencies.
+  - [Full Results](https://share.indeedassessments.com/attempts/b4a24f57368b55ea4d38da8e75007871eed53dc074545cb7)
+- **Technical Support (Proficient) | November 2021**
+  - Exhibited proficiency in performing software, hardware, and network operations.
+  - [Full Results](https://share.indeedassessments.com/attempts/5611fa33d2af7f3cac06a66e93bcc1efeed53dc074545cb7)
+- **Technical support: Customer situations — Proficient (Proficient) | August 2020**
+  - Shown adeptness in responding to technical support situations with sensitivity.
+  - [Full Results](https://share.indeedassessments.com/attempts/07b4e7e62e91b93ea1f7d9cad8fa05d0eed53dc074545cb7)
+- **Analyzing Data (Proficient) | October 2023**
+  - Capable of interpreting and producing graphs, identifying trends, and drawing justifiable conclusions from data.
+  - [Full Results](https://share.indeedassessments.com/attempts/37868e532570a885784ff74262097ea8eed53dc074545cb7)
+- **Project Timeline Management (Proficient) | November 2021**
+  - Exhibited ability in prioritizing and allocating time to effectively achieve project deliverables.
+  - [Full Results](https://share.indeedassessments.com/attempts/ad06e39524d862ffa8083c362fd84210eed53dc074545cb7)
+- **Work Motivation (Proficient) | November 2021**
+  - Displayed a high level of motivation and discipline applied toward work.
+  - [Full Results](https://share.indeedassessments.com/attempts/d5115f7fc85e02b340a34748799d8c29eed53dc074545cb7)
 
-### Information Systems Management
-- Managed ERP and CRM systems, resulting in a 20% increase in operational efficiency.
+## Projects
 
----
+### Azure Infrastructure Optimization
+**Technologies:** Azure, PowerShell
+**Duration:** March 2023 - August 2023
+**Team Size:** 3
+- Led a team to optimize Azure-hosted infrastructure, reducing hosting costs by 40%.
+- ...
 
-## Communications
+### CyberArk Endpoint Privileges Management
+**Technologies:** CyberArk, PowerShell
+**Duration:** December 2021 - March 2023
+**Team Size:** 3
+- Oversaw policy reconciliation, optimization, and agent upgrades for the CyberArk Endpoint Management system.
+- ...
 
-### Written and Verbal Communications
-- Consistently recognized for clarity and effectiveness in both written and spoken communications.
+<!-- Other Projects -->
 
-### Technical Writing
-- Authored technical documentation that increased user adoption rates by 15%.
-
-### Project Management
-- Delivered 90% of projects on-time and under budget.
-
-### Training
-- Developed training programs that improved team productivity by 30%.
-
-### SOP Development
-- Authored SOPs that became the standard across multiple departments.
-
-### Business Intelligence
-- Leveraged data analytics to drive a 20% increase in customer engagement.
-
-### Negotiations Management
-- Successfully negotiated multi-year contracts leading to long-term partnerships.
-
-### Incident/Crisis Management
-- Managed incidents with a protocol that minimized downtime to less than 1 hour.
-
----
-
-## Security
-
-### Privileged Access
-- Established and enforced least-privilege policies, reducing the risk of internal threats.
-
-### Directory Services
-- Managed enterprise identity solutions through LDAP and Active Directory.
-
-### Incident Response Management
-- Coordinated incident response actions, reducing breach impact by 50%.
-
-### Penetration Testing
-- Conducted ethical hacking exercises that led to a 30% reduction in vulnerabilities.
-
-### Security Auditing
-- Performed regular security audits, maintaining ISO 27001 compliance.
-
-### Risk Management
-- Implemented risk assessment methods that prevented any significant incidents.
-
-### Compliance
-- Ensured ongoing compliance with GDPR, mitigating the risk of legal repercussions.
-
----
-
-# External Reference Resources
-- [FXSTREET Economic Calendar](https://www.fxstreet.com/economic-calendar)
-- [Oilprice.com (Energy && World News)](https://oilprice.com/Latest-Energy-News/World-News/)
-- [The Block (Blockchain and Market Data Analytics)](https://www.theblock.co/data/crypto-markets/futures)
-- [TradingView - Advanced Charting](https://www.tradingview.com/chart/)
-- [EARTHQUAKE PREDICTION CENTER](https://quakewatch.net/)
-- [Solar Terrestrial Activity Report](https://www.solen.info/solar/)
-- [Mike's Weather Homepage](https://spaghettimodels.com/)
-- [Ventusky](https://www.ventusky.com/)
-- [Didact AI](https://principiamundi.com/posts/didact-anatomy/)
-
-## Publications, Contributions & Portfolio
-- Impactful Automation - Automation that Hits the Mark
-- Scalable OTP Authentication
-- Logic for Programmatic Decision Making against Equity Assets
-- Sentiment Investor API 
-- [Archive: botStuff](https://github.com/username/project1)
-- [Various: ChatGPT UML MindMaps](https://github.com/ssmanji89/mindmaps)
-- [Python/Solutions: automobots](https://github.com/ssmanji89/automobots)
-- [Python/Solution: High-frequency Trading](https://github.com/ssmanji89/botstuff_hft_cryptos)
-- [UML/Analysis: Azure Monitoring Program](https://github.dev/ssmanji89/mindmaps/blob/1033aba396da4634630cc13021f4f439355ecb8a/Node-Azure_Monitoring-Detailed.md#L1)
-- [UML/Analysis: S.M.A.R.T. ](https://github.dev/ssmanji89/mindmaps/blob/1033aba396da4634630cc13021f4f439355ecb8a/MindMap%20for%20Defining%20SMART%20Goals.uml#L1-L28)
-- [UML/Analysis: Cost Savings Analysis with Automation](https://github.dev/ssmanji89/mindmaps/blob/1033aba396da4634630cc13021f4f439355ecb8a/Cost-Savings%20Opportunities%20for%20Customers.md#L1-L53)
-- [UML/Process: SOAR on Information Technology Systems](https://github.com/ssmanji89/mindmaps/blob/main/SOAR%20IT%20Landscape%20Integration.md)
-- [PS/Process: Windows OS Standard Onboarding](https://gist.github.com/botstufforg/84470eb9d12d454b0a452af8c963ff3f)
-- [UML/Process: Endpoint Protection Policy Development](https://gist.github.com/ssmanji89/8e31a60a6efd14b92898ee77c9da5dc4)
-- [UML/Notes: What the Heck is EOS_A Complete Guide for Employees in Companies Running on EOS](https://github.com/ssmanji89/public/blob/main/posts/notes_What_the_Heck_is_EOS-A_Complete_Guide_for_Employees_in_Companies_Running_on_EOS.md)
