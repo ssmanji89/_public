@@ -57,7 +57,7 @@ I'm a pragmatic principal engineer with a specialization in cloud services, priv
 ---
 ## Education
 - ***Bachelors of BA in Management Information Systems***; University of Houston-Bauer College of Business - Houston, TX; January 2009 to May 2013
-- ***Certificate in Corporate Entrepreneurship***; University of Houston - Houston, TX; January 2012 to June 2012
+- ***Certificate in Corporate Entrepreneurship***; University of Houston - Houston, TX; June 2011 to January 2012
 - ***Certificate in Corporate Intrapreneurship***; University of Houston - Houston, TX; January 2012 to June 2012
 
 ---
