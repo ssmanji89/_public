@@ -20,6 +20,22 @@
       <h2 class="project-tagline">{{ page.description }}</h2>
     </header>
 
+    <!-- Inserting Navigation Bar Here -->
+    <nav>
+      <ul>
+        {% for section, links in site.navbar-links %}
+          <li>
+            {{ section }}
+            <ul>
+              {% for link, url in links %}
+                <li><a href="{{ url }}">{{ link }}</a></li>
+              {% endfor %}
+            </ul>
+          </li>
+        {% endfor %}
+      </ul>
+    </nav>
+    
     <main id="content" class="main-content" role="main" >
       {{ content }}
       <hr class="main-content">
