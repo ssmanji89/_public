@@ -1,0 +1,65 @@
+# --- Required options --- #
+remote_theme: pages-themes/leap-day@v0.2.0
+plugins:
+  - jekyll-remote-theme
+
+# Site settings
+title: Suleman S. Manji
+author: Suleman S. Manji
+rss-description: This website is a a feed of my musings.
+keywords: ["Infrastructure Consulting", "IT Infrastructure Design", "Infrastructure Support", "Technology Solutions", "IT Process Automation", "Automation Tools", "Systems Automation", "Technology Streamlining", "Emerging Tech Solutions", "Technology Application", "IT Modernization", "Desktop Management", "Desktop Troubleshooting", "Microsoft SQL Server", "Virtualized Solutions", "VDC", "Desktop Virtualization", "Cloud Solutions", "Cloud Infrastructure", "Microsoft Azure", "Office 365", "Infrastructure as a Service (IaaS)", "Virtual Infrastructure Management", "IT Project Coordination", "Technology Project Oversight", "BI Solutions", "Data Analytics", "Business Data Insights", "IT Crisis Resolution", "Incident Response", "IT Service Management", "Managed IT Solutions", "IT Training", "Standard Operating Procedure (SOP) Creation", "Bauer School of Business", "Management Information Systems", "University of Houston"]
+
+# Google Tag Manager ID
+gtm: "NJVLH7SX"
+
+# Social links
+github:
+  zip_url: http://github.com/ssmanji89
+  another_url: http://www.linkedin.com/in/sulemanmanji
+
+# Navigation bar links
+navbar-links:
+  Projects: 
+    - AiTechSupportBot: "https://github.com/ssmanji89/aidiscordbot"
+    - PCAE: "https://www.sulemanji.com/PCAECommercializationOverview"
+  Resources: 
+    - AI Learning Plan: "https://www.sulemanji.com/ailearningplan"
+    - OODA in IT Project Management: "https://www.sulemanji.com/ooda"
+    - ITIL Processes: "https://wiki.en.it-processmaps.com/index.php/ITIL_Processes"
+    - Managerial Strategies: "https://www.sulemanji.com/managerialStrategy"
+  External:
+    - MSPGeek: "https://discord.gg/mspgeek"
+    - OS ISOs: "https://github.com/ssmanji89/ISO-Downloads"
+
+# Optional settings you may consider
+# description: "Your site description"
+# baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://www.sulemanji.com" # the base hostname & protocol for your site
+email: "ssmanji89@gmail.com"
+twitter_username: slullyman
+
+# Build settings (add other plugins you want to use here)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Keep files from getting cleaned
+keep_files: [".git", ".svn"]
+
+# Permalinks
+permalinks:
+  posts: /:year/:month/:day/:title/
+
+# Pagination (assumes you have a file named `index.html`)
+paginate: 5
+paginate_path: "/page:num/"
