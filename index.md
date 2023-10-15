@@ -41,22 +41,16 @@ I'm a pragmatic principal engineer with a specialization in cloud services, priv
 - Ensured multinational compliance with a focus on privileged access and cybersecurity insurances.
 
 ## Work Experience
-***Integrations Manager / Interim Azure C# .NET Support Engineering***
-
-StackAdvisors, LLC. - Denver, CO; March 2023 to August 2023
+***Integrations Manager / Interim Azure C# .NET Support Engineering*** at StackAdvisors, LLC. - Denver, CO; March 2023 to August 2023
 - Diagnosed architectural bottlenecks in .NET C# Blazor Server application and set forth optimization roadmaps.
 - Integrated Azure monitoring tools for real-time insights and error rectification.
 - Achieved a 40% reduction in hosting costs by optimizing Azure-hosted infrastructure parameters.
 
-***Infrastructure Engineer***
-
-Fulcrum Technology - Houston, TX; December 2021 to March 2023
+***Infrastructure Engineer*** at Fulcrum Technology - Houston, TX; December 2021 to March 2023
 - Lead efforts in policy reconciliation, optimization, and agent upgrades for the CyberArk Endpoint Management system.
 - Collaborated on GDPR compliance efforts, ensuring data migration to appropriate Azure resources.
 
-***Operations / Technical Architect***
-
-Houston IT Tech, LLC. - Houston, TX; August 2019 to July 2020
+***Operations / Technical Architect*** at Houston IT Tech, LLC. - Houston, TX; August 2019 to July 2020
 - Spearheaded key initiatives aimed at driving operational efficiency and technical excellence.
 - Orchestrated a comprehensive SharePoint Cleanup, eliminating redundancies, and optimizing resources.
 
